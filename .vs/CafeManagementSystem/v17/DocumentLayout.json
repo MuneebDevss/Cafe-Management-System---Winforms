@@ -1,0 +1,1668 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester4\\DBLAB\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\billgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:billgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|d:\\semester4\\dblab\\cafemanagementsystem\\updatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\assigncashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:assigncashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\billgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:billgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\salesdetailsowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:salesdetailsowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\salesdetailsowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:salesdetailsowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\managermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:managermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\makeorderfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:makeorderfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\managermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:managermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\managermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:managermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\managemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:managemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\manageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:manageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\makeorderfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:makeorderfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\ownerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:ownerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\managemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:managemenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\addmenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:addmenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\addmenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:addmenuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\removeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:removeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\loyalityprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:loyalityprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\givefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:givefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\editmanagerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:editmanagerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\confirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:confirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\cashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:cashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\availabletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:availabletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\assignstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:assignstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\assignedstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:assignedstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\addcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:addcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\assignstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:assignstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\assignedstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:assignedstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\assigncashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:assigncashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatesalaryserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatesalaryserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatesalaryserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatesalaryserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatesalarycashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatesalarycashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatesalarycashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatesalarycashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatesalarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatesalarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\cashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:cashiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:servermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:servermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\reservedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:reservedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\ownerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:ownerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\addcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:addcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\availabletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:availabletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\reservedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:reservedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\removeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:removeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\loyalityprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:loyalityprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\editmanagerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:editmanagerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\confirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:confirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:servermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\givefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:givefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\updatesalarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:updatesalarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\availabletables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:availabletables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\owner.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:owner.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\owner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:owner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerhome.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerhome.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerreports.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerreports.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\customerreports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:customerreports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\resources\\patient_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:resources\\patient_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\resources\\patient_icon_2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:resources\\patient_icon_2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\resources\\patients_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:resources\\patients_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|D:\\semester4\\DBLAB\\CafeManagementSystem\\availabletables.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0B407B9C-1182-42D4-951B-B36FDA3D513A}|CafeManagementSystem.csproj|solutionrelative:availabletables.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\DBLAB\\CafeManagementSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\DBLAB\\CafeManagementSystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\DBLAB\\CafeManagementSystem\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\DBLAB\\CafeManagementSystem\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\DBLAB\\CafeManagementSystem\\assignedcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assignedcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\semester4\\DBLAB\\CafeManagementSystem\\assignedcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assignedcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UpdateSalaryManager.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryManager.cs",
+              "RelativeDocumentMoniker": "UpdateSalaryManager.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryManager.cs [Design]",
+              "RelativeToolTip": "UpdateSalaryManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:27:54.022Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAABAZmZmZmYmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:01:49.92Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Registration.cs [Design]",
+              "RelativeToolTip": "Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:28:00.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateManager.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateManager.cs",
+              "RelativeDocumentMoniker": "UpdateManager.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateManager.cs [Design]",
+              "RelativeToolTip": "UpdateManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:52:25.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillGenerate.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\BillGenerate.cs",
+              "RelativeDocumentMoniker": "BillGenerate.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\BillGenerate.cs",
+              "RelativeToolTip": "BillGenerate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:05:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssignCashier.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignCashier.cs",
+              "RelativeDocumentMoniker": "AssignCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignCashier.cs [Design]",
+              "RelativeToolTip": "AssignCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:04:03.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:49:42.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillGenerate.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\BillGenerate.cs",
+              "RelativeDocumentMoniker": "BillGenerate.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\BillGenerate.cs [Design]",
+              "RelativeToolTip": "BillGenerate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:03:55.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Bill.cs",
+              "RelativeDocumentMoniker": "Bill.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Bill.cs",
+              "RelativeToolTip": "Bill.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:26:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesDetailsOwner.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\SalesDetailsOwner.cs",
+              "RelativeDocumentMoniker": "SalesDetailsOwner.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\SalesDetailsOwner.cs",
+              "RelativeToolTip": "SalesDetailsOwner.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAvwDYAAACkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:49:33.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesDetailsOwner.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\SalesDetailsOwner.cs",
+              "RelativeDocumentMoniker": "SalesDetailsOwner.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\SalesDetailsOwner.cs [Design]",
+              "RelativeToolTip": "SalesDetailsOwner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:48:21.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerHome.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.cs",
+              "RelativeDocumentMoniker": "CustomerHome.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.cs [Design]",
+              "RelativeToolTip": "CustomerHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:08:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Manager.cs [Design]",
+              "RelativeToolTip": "Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:27:07.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerMain.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManagerMain.Designer.cs",
+              "RelativeDocumentMoniker": "ManagerMain.Designer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManagerMain.Designer.cs",
+              "RelativeToolTip": "ManagerMain.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:13:37.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MakeOrderFixed.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MakeOrderFixed.cs",
+              "RelativeDocumentMoniker": "MakeOrderFixed.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MakeOrderFixed.cs",
+              "RelativeToolTip": "MakeOrderFixed.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAEwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:36:02.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Registration.cs",
+              "RelativeToolTip": "Registration.cs",
+              "ViewState": "AQIAADgAAAA4MzMzMzMrwD8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:48:13.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAC8AAAAAzczMzMwcwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:49:06.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerHome.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.cs",
+              "RelativeDocumentMoniker": "CustomerHome.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.cs",
+              "RelativeToolTip": "CustomerHome.cs",
+              "ViewState": "AQIAAL4AAAAAaGZmZmYqwMsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:34:44.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagerMain.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManagerMain.cs",
+              "RelativeDocumentMoniker": "ManagerMain.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManagerMain.cs [Design]",
+              "RelativeToolTip": "ManagerMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:06:07.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Owner.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.cs",
+              "RelativeDocumentMoniker": "Owner.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.cs [Design]",
+              "RelativeToolTip": "Owner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:35:48.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerMain.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManagerMain.cs",
+              "RelativeDocumentMoniker": "ManagerMain.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManagerMain.cs",
+              "RelativeToolTip": "ManagerMain.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:23:52.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.cs",
+              "RelativeDocumentMoniker": "Owner.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.cs",
+              "RelativeToolTip": "Owner.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:47:40.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:24:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "managemenuitems.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\managemenuitems.cs",
+              "RelativeDocumentMoniker": "managemenuitems.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\managemenuitems.cs [Design]",
+              "RelativeToolTip": "managemenuitems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:53:09.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageInventory.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManageInventory.cs",
+              "RelativeDocumentMoniker": "ManageInventory.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ManageInventory.cs [Design]",
+              "RelativeToolTip": "ManageInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:14:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MakeOrderFixed.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MakeOrderFixed.cs",
+              "RelativeDocumentMoniker": "MakeOrderFixed.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MakeOrderFixed.cs [Design]",
+              "RelativeToolTip": "MakeOrderFixed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:33:49.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OwnerFeedback.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\OwnerFeedback.cs",
+              "RelativeDocumentMoniker": "OwnerFeedback.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\OwnerFeedback.cs [Design]",
+              "RelativeToolTip": "OwnerFeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:51:25.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "updatemenuitems.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\updatemenuitems.cs",
+              "RelativeDocumentMoniker": "updatemenuitems.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\updatemenuitems.cs [Design]",
+              "RelativeToolTip": "updatemenuitems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:54:04.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "updatemenuitems.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\updatemenuitems.cs",
+              "RelativeDocumentMoniker": "updatemenuitems.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\updatemenuitems.cs",
+              "RelativeToolTip": "updatemenuitems.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:54:06.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:27:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "managemenuitems.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\managemenuitems.cs",
+              "RelativeDocumentMoniker": "managemenuitems.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\managemenuitems.cs",
+              "RelativeToolTip": "managemenuitems.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:50:59.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "addmenuitems.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\addmenuitems.cs",
+              "RelativeDocumentMoniker": "addmenuitems.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\addmenuitems.cs [Design]",
+              "RelativeToolTip": "addmenuitems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:47:19.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "addmenuitems.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\addmenuitems.cs",
+              "RelativeDocumentMoniker": "addmenuitems.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\addmenuitems.cs",
+              "RelativeToolTip": "addmenuitems.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAowJIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:46:45.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RemoveServer.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveServer.cs",
+              "RelativeDocumentMoniker": "RemoveServer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveServer.cs [Design]",
+              "RelativeToolTip": "RemoveServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:54:32.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:22:07.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainHome.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MainHome.cs",
+              "RelativeDocumentMoniker": "MainHome.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MainHome.cs [Design]",
+              "RelativeToolTip": "MainHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:02:17.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoyalityProgram.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoyalityProgram.cs",
+              "RelativeDocumentMoniker": "LoyalityProgram.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoyalityProgram.cs [Design]",
+              "RelativeToolTip": "LoyalityProgram.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:03:37.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GiveFeedBack.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\GiveFeedBack.cs",
+              "RelativeDocumentMoniker": "GiveFeedBack.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\GiveFeedBack.cs [Design]",
+              "RelativeToolTip": "GiveFeedBack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:58:05.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "editmanagerprofile.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\editmanagerprofile.cs",
+              "RelativeDocumentMoniker": "editmanagerprofile.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\editmanagerprofile.cs [Design]",
+              "RelativeToolTip": "editmanagerprofile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:22:06.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerReports.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.cs",
+              "RelativeDocumentMoniker": "CustomerReports.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.cs [Design]",
+              "RelativeToolTip": "CustomerReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:27:45.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ConfirmForm.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ConfirmForm.cs",
+              "RelativeDocumentMoniker": "ConfirmForm.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ConfirmForm.cs [Design]",
+              "RelativeToolTip": "ConfirmForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:30:30.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Cashiermain.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashiermain.cs",
+              "RelativeDocumentMoniker": "Cashiermain.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashiermain.cs [Design]",
+              "RelativeToolTip": "Cashiermain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:04:07.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Cashier.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashier.cs",
+              "RelativeDocumentMoniker": "Cashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashier.cs [Design]",
+              "RelativeToolTip": "Cashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:22:53.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CancelOrder.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CancelOrder.cs",
+              "RelativeDocumentMoniker": "CancelOrder.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CancelOrder.cs [Design]",
+              "RelativeToolTip": "CancelOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:15:01.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AvailableTables.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.cs",
+              "RelativeDocumentMoniker": "AvailableTables.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.cs [Design]",
+              "RelativeToolTip": "AvailableTables.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:34:23.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AssignStaff.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignStaff.cs",
+              "RelativeDocumentMoniker": "AssignStaff.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignStaff.cs [Design]",
+              "RelativeToolTip": "AssignStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:37:12.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AssignedStaff.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedStaff.cs",
+              "RelativeDocumentMoniker": "AssignedStaff.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedStaff.cs [Design]",
+              "RelativeToolTip": "AssignedStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:50:43.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddServer.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddServer.cs",
+              "RelativeDocumentMoniker": "AddServer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddServer.cs [Design]",
+              "RelativeToolTip": "AddServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:59:32.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddItem.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddItem.cs",
+              "RelativeDocumentMoniker": "AddItem.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddItem.cs [Design]",
+              "RelativeToolTip": "AddItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:04:29.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddCashier.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddCashier.cs",
+              "RelativeDocumentMoniker": "AddCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddCashier.cs [Design]",
+              "RelativeToolTip": "AddCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:56:05.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerReports.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.cs",
+              "RelativeDocumentMoniker": "CustomerReports.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.cs",
+              "RelativeToolTip": "CustomerReports.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAlwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:30:24.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateItem.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateItem.cs",
+              "RelativeDocumentMoniker": "UpdateItem.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateItem.cs [Design]",
+              "RelativeToolTip": "UpdateItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:11:46.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AssignStaff.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignStaff.cs",
+              "RelativeDocumentMoniker": "AssignStaff.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignStaff.cs",
+              "RelativeToolTip": "AssignStaff.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAhwGEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:37:15.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AssignedStaff.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedStaff.cs",
+              "RelativeDocumentMoniker": "AssignedStaff.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedStaff.cs",
+              "RelativeToolTip": "AssignedStaff.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBIAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:51:24.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AddServer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddServer.cs",
+              "RelativeDocumentMoniker": "AddServer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddServer.cs",
+              "RelativeToolTip": "AddServer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIA+wBwAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:55:10.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AssignCashier.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignCashier.cs",
+              "RelativeDocumentMoniker": "AssignCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignCashier.cs",
+              "RelativeToolTip": "AssignCashier.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:35:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateSalaryServer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryServer.cs",
+              "RelativeDocumentMoniker": "UpdateSalaryServer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryServer.cs",
+              "RelativeToolTip": "UpdateSalaryServer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:15:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:54:12.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateSalaryServer.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryServer.cs",
+              "RelativeDocumentMoniker": "UpdateSalaryServer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryServer.cs [Design]",
+              "RelativeToolTip": "UpdateSalaryServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:13:34.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UpdateSalaryCashier.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryCashier.cs",
+              "RelativeDocumentMoniker": "UpdateSalaryCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryCashier.cs",
+              "RelativeToolTip": "UpdateSalaryCashier.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:35:35.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateSalaryCashier.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryCashier.cs",
+              "RelativeDocumentMoniker": "UpdateSalaryCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryCashier.cs [Design]",
+              "RelativeToolTip": "UpdateSalaryCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:28:09.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RemoveCashier.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveCashier.cs",
+              "RelativeDocumentMoniker": "RemoveCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveCashier.cs [Design]",
+              "RelativeToolTip": "RemoveCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:52:43.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Cashiermain.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashiermain.cs",
+              "RelativeDocumentMoniker": "Cashiermain.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashiermain.cs",
+              "RelativeToolTip": "Cashiermain.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAswFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:28:21.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "servermain.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.cs",
+              "RelativeDocumentMoniker": "servermain.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.cs [Design]",
+              "RelativeToolTip": "servermain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:30:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UpdateItem.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateItem.cs",
+              "RelativeDocumentMoniker": "UpdateItem.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateItem.cs",
+              "RelativeToolTip": "UpdateItem.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:23:32.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "servermain.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.cs",
+              "RelativeDocumentMoniker": "servermain.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.cs",
+              "RelativeToolTip": "servermain.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwFEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:30:56.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ReservedTables.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ReservedTables.cs",
+              "RelativeDocumentMoniker": "ReservedTables.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ReservedTables.cs [Design]",
+              "RelativeToolTip": "ReservedTables.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:01:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "OwnerFeedback.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\OwnerFeedback.cs",
+              "RelativeDocumentMoniker": "OwnerFeedback.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\OwnerFeedback.cs",
+              "RelativeToolTip": "OwnerFeedback.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:04:34.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Server.cs [Design]",
+              "RelativeToolTip": "Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:23:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AddCashier.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddCashier.cs",
+              "RelativeDocumentMoniker": "AddCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddCashier.cs",
+              "RelativeToolTip": "AddCashier.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:41:50.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UpdateManager.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateManager.cs",
+              "RelativeDocumentMoniker": "UpdateManager.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateManager.cs",
+              "RelativeToolTip": "UpdateManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:32:44.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AvailableTables.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.cs",
+              "RelativeDocumentMoniker": "AvailableTables.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.cs",
+              "RelativeToolTip": "AvailableTables.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:45:27.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ReservedTables.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ReservedTables.cs",
+              "RelativeDocumentMoniker": "ReservedTables.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ReservedTables.cs",
+              "RelativeToolTip": "ReservedTables.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:04:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RemoveServer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveServer.cs",
+              "RelativeDocumentMoniker": "RemoveServer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveServer.cs",
+              "RelativeToolTip": "RemoveServer.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:10:50.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RemoveCashier.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveCashier.cs",
+              "RelativeDocumentMoniker": "RemoveCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\RemoveCashier.cs",
+              "RelativeToolTip": "RemoveCashier.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAswGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:12:20.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LoyalityProgram.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoyalityProgram.cs",
+              "RelativeDocumentMoniker": "LoyalityProgram.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoyalityProgram.cs",
+              "RelativeToolTip": "LoyalityProgram.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:05:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "editmanagerprofile.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\editmanagerprofile.cs",
+              "RelativeDocumentMoniker": "editmanagerprofile.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\editmanagerprofile.cs",
+              "RelativeToolTip": "editmanagerprofile.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADwvzkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:43:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ConfirmForm.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ConfirmForm.cs",
+              "RelativeDocumentMoniker": "ConfirmForm.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\ConfirmForm.cs",
+              "RelativeToolTip": "ConfirmForm.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAkwJsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:30:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CancelOrder.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CancelOrder.cs",
+              "RelativeDocumentMoniker": "CancelOrder.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CancelOrder.cs",
+              "RelativeToolTip": "CancelOrder.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:38:37.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddItem.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddItem.cs",
+              "RelativeDocumentMoniker": "AddItem.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AddItem.cs",
+              "RelativeToolTip": "AddItem.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:34:58.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "servermain.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.Designer.cs",
+              "RelativeDocumentMoniker": "servermain.Designer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\servermain.Designer.cs",
+              "RelativeToolTip": "servermain.Designer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:09:42.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashier.cs",
+              "RelativeDocumentMoniker": "Cashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Cashier.cs",
+              "RelativeToolTip": "Cashier.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:29:48.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MainHome.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MainHome.cs",
+              "RelativeDocumentMoniker": "MainHome.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\MainHome.cs",
+              "RelativeToolTip": "MainHome.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:23:02.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "GiveFeedBack.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\GiveFeedBack.cs",
+              "RelativeDocumentMoniker": "GiveFeedBack.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\GiveFeedBack.cs",
+              "RelativeToolTip": "GiveFeedBack.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEoAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:07:45.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvw0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:28:17.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UpdateSalaryManager.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryManager.cs",
+              "RelativeDocumentMoniker": "UpdateSalaryManager.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\UpdateSalaryManager.cs",
+              "RelativeToolTip": "UpdateSalaryManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:40:21.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AvailableTables.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.Designer.cs",
+              "RelativeDocumentMoniker": "AvailableTables.Designer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.Designer.cs",
+              "RelativeToolTip": "AvailableTables.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:32:20.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Owner.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.Designer.cs",
+              "RelativeDocumentMoniker": "Owner.Designer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.Designer.cs",
+              "RelativeToolTip": "Owner.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:43:01.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Owner.resx",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.resx",
+              "RelativeDocumentMoniker": "Owner.resx",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Owner.resx",
+              "RelativeToolTip": "Owner.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-02T20:43:13.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "AssignedCashier.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedCashier.cs",
+              "RelativeDocumentMoniker": "AssignedCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedCashier.cs [Design]",
+              "RelativeToolTip": "AssignedCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:27:02.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "AssignedCashier.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedCashier.cs",
+              "RelativeDocumentMoniker": "AssignedCashier.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AssignedCashier.cs",
+              "RelativeToolTip": "AssignedCashier.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:28:09.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CustomerHome.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerHome.Designer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.Designer.cs",
+              "RelativeToolTip": "CustomerHome.Designer.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAYwDABAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:15:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CustomerHome.resx",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.resx",
+              "RelativeDocumentMoniker": "CustomerHome.resx",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerHome.resx",
+              "RelativeToolTip": "CustomerHome.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-01T10:15:53.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "CustomerReports.resx",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.resx",
+              "RelativeDocumentMoniker": "CustomerReports.resx",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.resx",
+              "RelativeToolTip": "CustomerReports.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-02T08:14:01.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "CustomerReports.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerReports.Designer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\CustomerReports.Designer.cs",
+              "RelativeToolTip": "CustomerReports.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:13:58.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\HomeForm.cs",
+              "RelativeToolTip": "HomeForm.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAArwEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:10:40.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "patient_icon.png - PNG [23x23, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Resources\\patient_icon.png",
+              "RelativeDocumentMoniker": "Resources\\patient_icon.png",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Resources\\patient_icon.png - PNG [23x23, 32 bit, PNG]",
+              "RelativeToolTip": "Resources\\patient_icon.png - PNG [23x23, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-01T13:14:26.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "patient_icon_2.png - PNG [23x23, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Resources\\patient_icon_2.png",
+              "RelativeDocumentMoniker": "Resources\\patient_icon_2.png",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Resources\\patient_icon_2.png - PNG [23x23, 32 bit, PNG]",
+              "RelativeToolTip": "Resources\\patient_icon_2.png - PNG [23x23, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-01T13:14:24.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "patients_icon.png - PNG [23x23, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Resources\\patients_icon.png",
+              "RelativeDocumentMoniker": "Resources\\patients_icon.png",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\Resources\\patients_icon.png - PNG [23x23, 32 bit, PNG]",
+              "RelativeToolTip": "Resources\\patients_icon.png - PNG [23x23, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-01T13:14:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:04:00.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.resx",
+              "RelativeDocumentMoniker": "LoginForm.resx",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.resx",
+              "RelativeToolTip": "LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-30T13:05:35.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "AvailableTables.resx",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.resx",
+              "RelativeDocumentMoniker": "AvailableTables.resx",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\AvailableTables.resx",
+              "RelativeToolTip": "AvailableTables.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-30T13:01:39.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:48:58.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\semester4\\DBLAB\\CafeManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:05:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\semester4\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\semester4\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:01:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\semester4\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.cs",
+              "ToolTip": "D:\\semester4\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.cs",
+              "RelativeToolTip": "..\\..\\Database\\HospitalMS-main\\HospitalMS\\HospitalMS\\Forms\\General\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:01:17.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
